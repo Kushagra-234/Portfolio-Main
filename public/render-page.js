@@ -9442,7 +9442,7 @@ const Nav = ({
   }));
   const ResumeLink = /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     className: "resume-button",
-    href: "https://drive.google.com/file/d/1TGgtcTpOVzkxnr2c_jCe-K8iaNKoTvfp/view?pli=1",
+    href: "https://drive.google.com/file/d/1z9FsHn8tZjN_L0HoexZh_W3LJcoGpgDB/view?usp=share_link",
     target: "_blank",
     rel: "noopener noreferrer"
   }, "Resume");
@@ -9617,7 +9617,7 @@ const Contact = () => {
     className: "numbered-heading overline"
   }, "What\u2019s Next?"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("h2", {
     className: "title"
-  }, "Get In Touch"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "I am looking forward for Internship and Full-time role for software developer ,my inbox is always open regarding any chat,new ideas or collaborations for open source,feel free to connect"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
+  }, "Get In Touch"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("p", null, "I am looking forward for Full-time role for software developer ,my inbox is always open regarding any chat,new ideas or collaborations for open source,feel free to connect"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default().createElement("a", {
     className: "email-link",
     href: `mailto:${_config__WEBPACK_IMPORTED_MODULE_1__.email}`
   }, "Say Hello"));
@@ -50335,7 +50335,7 @@ module.exports = [];
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"data":{"jobs":{"edges":[{"node":{"frontmatter":{"title":" Frontend Engineer intern","company":"Wholphintech pvt ltd","location":"Remote","range":"December 2022 - Present","url":"http://wholphintech.com/"},"html":"<ul>\\n<li>Migrated a multi-page user experience into a single page app, improving customer engangment by 10%.</li>\\n<li>Maintained,developed and designed User and Order pages for a E-commerce Museum-based site.</li>\\n<li>Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis</li>\\n<li>State Managment using Context API</li>\\n</ul>"}},{"node":{"frontmatter":{"title":" Frontend Engineer intern","company":"Wholphintech pvt ltd","location":"Remote","range":"December 2022 - Present","url":"http://wholphintech.com/"},"html":"<ul>\\n<li>Migrated a multi-page user experience into a single page app, improving customer engangment by 10%.</li>\\n<li>Maintained,developed and designed User and Order pages for a E-commerce Museum-based site.</li>\\n<li>Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis</li>\\n<li>State Managment using Context API</li>\\n</ul>"}}]}}}');
+module.exports = JSON.parse('{"data":{"jobs":{"edges":[{"node":{"frontmatter":{"title":"Assosiate Sofware engineer","company":"Saleshandy","location":"Hybrid","range":"March 2023 - Present","url":"https://www.saleshandy.com/"},"html":"<ul>\\n<li>Developed and maintained a cold emailing SaaS product on daily basis.</li>\\n<li>Integrated SMTP and other modals for bulk mailing, low cost ,extended area coverage and for reliable Fand quick email delivery.</li>\\n<li>Integrated various third party software systems such as howuku,beacon to increase user experience.</li>\\n</ul>"}},{"node":{"frontmatter":{"title":" Frontend Engineer intern","company":"Wholphintech pvt ltd","location":"Remote","range":"December 2022 - Present","url":"http://wholphintech.com/"},"html":"<ul>\\n<li>Migrated a multi-page user experience into a single page app, improving customer engangment by 10%.</li>\\n<li>Maintained,developed and designed User and Order pages for a E-commerce Museum-based site.</li>\\n<li>Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis</li>\\n<li>State Managment using Context API</li>\\n</ul>"}}]}}}');
 
 /***/ }),
 

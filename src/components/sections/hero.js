@@ -69,8 +69,8 @@ const Hero = () => {
         I’m a Passioante software developer Currently looking for opportunities to learn and grow.I
         love to solve real world problems and I am skilled in frontend development and its libraries
         Currently working for{' '}
-        <a href="https://www.saleshandy.com/" target="_blank" rel="noreferrer">
-          Saleshandy
+        <a href="https://www.treflo.com/" target="_blank" rel="noreferrer">
+          Treflo
         </a>
         .
       </p>
