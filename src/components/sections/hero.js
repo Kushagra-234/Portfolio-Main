@@ -66,13 +66,14 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a Passioante software developer Currently looking for opportunities to learn and grow.I
-        love to solve real world problems and I am skilled in frontend development and its libraries
-        Currently working for{' '}
+        Frontend Engineer (2.5+ yrs) specializing in React, Next.js, TypeScript,State management
+        libraries & Web3. At my current organisation{' '}
         <a href="https://www.treflo.com/" target="_blank" rel="noreferrer">
           Treflo
         </a>
-        .
+        , I’ve owned and shipped features for a production DEX and previously contributed to SaaS
+        platforms with 200k+ users, focusing on performance, scalability, and clean architecture.
+        Open to conversations around frontend engineering and product development.
       </p>
     </>
   );

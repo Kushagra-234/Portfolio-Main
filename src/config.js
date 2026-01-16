@@ -18,8 +18,10 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/kushagra11/',
     },
-    
-    
+    {
+      name: 'External',
+      url: 'https://codesandbox.io/u/kg7741365',
+    },
   ],
 
   navLinks: [

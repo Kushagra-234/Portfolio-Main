@@ -1,30 +1,30 @@
 var plugins = [{
       name: 'gatsby-plugin-react-helmet',
-      plugin: require('/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
       name: 'gatsby-plugin-styled-components',
-      plugin: require('/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
+      plugin: require('/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[],"displayName":true,"fileName":true,"minify":true,"namespace":"","transpileTemplateLiterals":true,"topLevelImportPaths":[],"pure":false,"disableVendorPrefixes":false},
     },{
       name: 'gatsby-plugin-image',
-      plugin: require('/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/gatsby-plugin-image/gatsby-ssr'),
+      plugin: require('/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/gatsby-plugin-image/gatsby-ssr'),
       options: {"plugins":[]},
     },{
       name: 'gatsby-plugin-sitemap',
-      plugin: require('/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
+      plugin: require('/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[],"output":"/sitemap","createLinkInHead":true,"entryLimit":45000,"query":"{ site { siteMetadata { siteUrl } } allSitePage { nodes { path } } }","excludes":[]},
     },{
       name: 'gatsby-plugin-manifest',
-      plugin: require('/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"Brittany Chiang","short_name":"Brittany Chiang","start_url":"/","background_color":"#020c1b","theme_color":"#0a192f","display":"minimal-ui","icon":"src/images/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"9c7f9f0144c04bbde3cec8766d4b9608"},
     },{
       name: 'gatsby-plugin-offline',
-      plugin: require('/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     },{
       name: 'gatsby-plugin-google-analytics',
-      plugin: require('/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"trackingId":"UA-45666519-2","head":false,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0,"enableWebVitalsTracking":false},
     }]
 /* global plugins */

@@ -3,7 +3,7 @@ date: '2022-12-14'
 title: ' Frontend Engineer intern'
 company: 'Wholphintech pvt ltd'
 location: 'Remote'
-range: 'December 2022 - Present'
+range: 'December 2022 - March 2023'
 url: 'http://wholphintech.com/'
 ---
 

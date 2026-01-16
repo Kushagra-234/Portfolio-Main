@@ -1,13 +1,14 @@
 ---
-date: '2022-12-14'
+date: '2023-07-01'
 title: ' Software Engineer 1'
 company: 'Treflo'
 location: 'Remote'
-range: 'july 2023 - Present'
-url: 'https://dexponent.xyz/'
+range: 'July 2023 - Present'
+url: 'https://testnet.dexponent.com/dashboard'
 ---
 
-- Worked as one of founding engineer for web3 product Dexponent and took ownership of end to work.
-- Optimized the frontend codebase of a decentralized exchange (DEX) application, reducing the average page load time by 30% through performance enhancements, code splitting, and lazy loading techniques.
-- Worked on trading dashboard,staking dashboard and perpetual dashboard end to end  
-- Integration with various third party libraries and SDK such as Wagmi,1inch.
+- Architected the frontend foundation for Dexponent using Next.js with SSR/ISR, enabling faster initial loads and scalable, modular feature development.
+- Achieved 30% faster page-load performance through route-level code splitting, memoization, virtualization, and bundle-size optimizations.
+- Standardized data flow using Redux Toolkit + RTK Query, implementing a clean API abstraction layer, normalized caching, and automatic request deduplication to reduce redundant API calls.
+- Built highly optimized analytics dashboards (tables, charts, filters) capable of handling 100k+ records with smooth virtualization and selective rendering.
+- Integrated Wagmi + Viem for wallet authentication, chain switching, and contract interactions, enabling seamless Web3 functionality within specific modules.

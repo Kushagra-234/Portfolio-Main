@@ -22,27 +22,27 @@
           }
         },
         {
-          "name": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
+          "name": "/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
           "options": {
-            "cacheDir": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/.cache/caches/gatsby-plugin-image"
+            "cacheDir": "/Users/apple/Documents/portfolio/Portfolio-Main/.cache/caches/gatsby-plugin-image"
           }
         },
         {
-          "name": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
+          "name": "/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
         {
-          "name": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
+          "name": "/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
           "options": {}
         },
         {
-          "name": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
+          "name": "/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
         }
       ],
       "presets": [
         {
-          "name": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/@babel/preset-typescript/lib/index.js",
+          "name": "/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/@babel/preset-typescript/lib/index.js",
           "options": {
             "plugins": [],
             "allExtensions": false,
@@ -63,21 +63,21 @@
           "options": {}
         },
         {
-          "name": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
+          "name": "/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
           "options": {
-            "cacheDir": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/.cache/caches/gatsby-plugin-image"
+            "cacheDir": "/Users/apple/Documents/portfolio/Portfolio-Main/.cache/caches/gatsby-plugin-image"
           }
         },
         {
-          "name": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
+          "name": "/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
         {
-          "name": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
+          "name": "/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
           "options": {}
         },
         {
-          "name": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
+          "name": "/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
         },
         {
@@ -98,7 +98,7 @@
       ],
       "presets": [
         {
-          "name": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/@babel/preset-typescript/lib/index.js",
+          "name": "/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/@babel/preset-typescript/lib/index.js",
           "options": {
             "plugins": [],
             "allExtensions": false,
@@ -119,21 +119,21 @@
           "options": {}
         },
         {
-          "name": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
+          "name": "/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
           "options": {
-            "cacheDir": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/.cache/caches/gatsby-plugin-image"
+            "cacheDir": "/Users/apple/Documents/portfolio/Portfolio-Main/.cache/caches/gatsby-plugin-image"
           }
         },
         {
-          "name": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
+          "name": "/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
         {
-          "name": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
+          "name": "/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
           "options": {}
         },
         {
-          "name": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
+          "name": "/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
         },
         {
@@ -154,7 +154,7 @@
       ],
       "presets": [
         {
-          "name": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/@babel/preset-typescript/lib/index.js",
+          "name": "/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/@babel/preset-typescript/lib/index.js",
           "options": {
             "plugins": [],
             "allExtensions": false,
@@ -175,21 +175,21 @@
           "options": {}
         },
         {
-          "name": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
+          "name": "/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/gatsby-plugin-image/dist/babel-plugin-parse-static-images.js",
           "options": {
-            "cacheDir": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/.cache/caches/gatsby-plugin-image"
+            "cacheDir": "/Users/apple/Documents/portfolio/Portfolio-Main/.cache/caches/gatsby-plugin-image"
           }
         },
         {
-          "name": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
+          "name": "/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
         {
-          "name": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
+          "name": "/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
           "options": {}
         },
         {
-          "name": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
+          "name": "/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
         },
         {
@@ -210,7 +210,7 @@
       ],
       "presets": [
         {
-          "name": "/home/kushagra/Documents/projects/react/portfolio-main/portfolio-main/node_modules/@babel/preset-typescript/lib/index.js",
+          "name": "/Users/apple/Documents/portfolio/Portfolio-Main/node_modules/@babel/preset-typescript/lib/index.js",
           "options": {
             "plugins": [],
             "allExtensions": false,
